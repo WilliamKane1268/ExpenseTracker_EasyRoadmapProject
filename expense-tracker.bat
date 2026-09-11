@@ -1,0 +1,1 @@
+@java -cp "%~dp0target\classes" Main %*
